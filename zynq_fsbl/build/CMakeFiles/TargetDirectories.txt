@@ -1,0 +1,4 @@
+C:/Users/Samuel/Documents/GitHub/fpga-hil/vivado/hil/hil/hil.sw/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Users/Samuel/Documents/GitHub/fpga-hil/vivado/hil/hil/hil.sw/platform/zynq_fsbl/build/CMakeFiles/print_build_info.dir
+C:/Users/Samuel/Documents/GitHub/fpga-hil/vivado/hil/hil/hil.sw/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Users/Samuel/Documents/GitHub/fpga-hil/vivado/hil/hil/hil.sw/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
